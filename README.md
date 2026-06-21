@@ -3,9 +3,9 @@ A collection of computers that I have built over the years for friends, family, 
 
 ### Personal Rig
 
-
 <img align="left" width="300" height="325" src="http://i.imgur.com/MsqzzHw.jpeg">  
 
+```
 + AMD Ryzen 9 7900X3D
 + Asus X670E TUF Gaming Plus WIFI DDR5 ATX MOBO
 + Asus TUF Gaming OC Edition GeForce RTX 5080 16GB
@@ -16,5 +16,9 @@ A collection of computers that I have built over the years for friends, family, 
 + NZXT Kraken Z73 360mm AIO
 + Lian Li 011 Dyanamic EVO ATX Case
 + Lian Li UNI SL120 RBG Fans (x10)
-</img>
+
+
+
+```
+---
 
